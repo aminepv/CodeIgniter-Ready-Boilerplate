@@ -1,6 +1,5 @@
-::selection { background-color: #E13300; color: white; }
-::-moz-selection { background-color: #E13300; color: white; }
-
-
+// @import "~bootstrap/scss/functions";
+@import "variables";
+// @import "~bootstrap/scss/bootstrap";
 
 @import "partials/header"

@@ -2,18 +2,21 @@
 
 ### Installation
  - Clone Repo
- - NPM install
+ - Run 'composer update'
+ - Run 'npm install'
  
-### Installed Packages and Libraries
-- Laravel Mix (Webpack)
-- Composer Autoload
-- Livereload Style/JS
+#### Dependencies included
+- nesbot/carbon
 
-## CodeIgniter
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+#### Node Packages included
+- Laravel Mix (Webpack)
+- Webpack Livereload Plugin (JS/SASS support)
+- jQuery
+- jQuery-ui
+- Bootstrap 4 + popper.js
+
+#### CodeIgniter Enhancement
+- Helper File
+- Global Controller (application/core/CR_Controller)
+- VueJS CDN call
+

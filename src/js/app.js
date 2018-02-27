@@ -1,5 +1,7 @@
-// Initiate jQuery
 import $ from 'jquery';
+import 'Bootstrap';
+import 'popper.js';
+
 window.$ = window.jQuery = $;
 
 
