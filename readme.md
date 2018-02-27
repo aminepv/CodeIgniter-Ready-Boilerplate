@@ -1,22 +1,24 @@
 # CodeIgniter Ready Boilerplate
 
-### Installation
- - Clone Repo
- - Run 'composer update'
- - Run 'npm install'
+## Installation
+Clone Repo
+Run :
+```sh
+composer update
+```
+```sh
+npm install
+```
  
-#### Dependencies included
+### Dependencies included
 - nesbot/carbon
 
-#### Node Packages included
-- Laravel Mix (Webpack)
-- Webpack Livereload Plugin (JS/SASS support)
-- jQuery
-- jQuery-ui
-- Bootstrap 4 + popper.js
+### Node Packages included
+- [Laravel Mix (Webpack) ](https://github.com/JeffreyWay/laravel-mix)
+- [Webpack Livereload Plugin (JS/SASS support)](https://github.com/statianzo/webpack-livereload-plugin)
+- [jQuery](https://github.com/jquery/jquery)
+- [Bootstrap 4](https://github.com/twbs/bootstrap)
+- [Popper.js](https://github.com/FezVrasta/popper.js)
 
-#### CodeIgniter Enhancement
-- Helper File
-- Global Controller (application/core/CR_Controller)
-- VueJS CDN call
+
 
